@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cargador hecho pelota
+=======
+de plastico y madera
+>>>>>>> ee6258373c051036dd9b6a0d5477db0e84108681
